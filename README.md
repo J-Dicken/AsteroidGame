@@ -6,11 +6,13 @@ Based on 1979 Asteroids by Lyle Rains and Ed Logg
 --Running the game--
 
 Processing (https://processing.org/download) is required to run the game
+
 Once installed, open "Asteroid_Earth_Defence" processing source file in Processing and click run
 
 --Controls--
 
 W, A, S, D - Move around
+
 Left Click - Shoot
 
 --Issues--
